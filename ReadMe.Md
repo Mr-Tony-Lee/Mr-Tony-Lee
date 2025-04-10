@@ -26,5 +26,9 @@
 - 🎮 I love solving algorithmic problems, competing in coding challenges, and developing web apps.
 - 📚 In my free time, I enjoy reading about AI advancements and learning new programming techniques.
 
+## Future Plans 
+- 📈 I plan to **commit and push new content to GitHub daily**, whether it's coding challenges, personal projects, or experiments with new technologies.  
+- 🧑‍💻 My goal is to build a strong and consistent coding habit while growing my portfolio with meaningful contributions.
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Tony-Lee&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
