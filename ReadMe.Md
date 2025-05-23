@@ -16,6 +16,7 @@
 - 💻 Contributed to **open-source projects** and participated in **programming contests**.
 
 ## CPE Records
+- **2025/05/20** -> 6/7
 - **2025/03/15** -> 3/7
 - **2024/12/10** -> 3/7
 - **2024/10/15** -> 4/7
