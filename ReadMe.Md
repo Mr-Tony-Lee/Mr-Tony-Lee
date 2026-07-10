@@ -16,6 +16,7 @@
 - 💻 Contributed to **open-source projects** and participated in **programming contests**.
 
 ## CPE Records
+- **2025/12/09** -> 5/7 (1.7%)
 - **2025/09/30** -> 4/7 (2.1%)
 - **2025/05/20** -> 6/7 (1.1%)
 - **2025/03/15** -> 3/7 (7.3%)
