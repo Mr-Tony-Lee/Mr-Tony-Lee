@@ -1,4 +1,4 @@
-# Hi, I'm Tony Lee 👋
+# Hi, I'm Tony Lee
 
 Computer Science and Engineering student at **National Sun Yat-sen University (NSYSU)**, based in Kaohsiung, Taiwan. I enjoy turning ideas into practical software, from algorithmic problem solving to web applications.
 
