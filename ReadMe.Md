@@ -22,7 +22,7 @@ Computer Science and Engineering student at **National Sun Yat-sen University (N
 
 ## Highlights
 
-- **NCPC 2024** — 32nd place in the preliminary round; 90th place in the final.
+- **NCPC 2025** — 51th place in the final.
 - **CPE** — best result: **6 / 7** problems solved (May 2025, within **1.1%** of competitors in Taiwan).
 
 ## Tech Stack
